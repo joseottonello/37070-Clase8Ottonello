@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "../img/authentic.jpg",
+        "name": "AUTHENTIC",
+        "price": "$15000",
+        "detail": "lorem ipsum",
+        "category": "Skate"
+    },
+    {
+        "id": 2,
+        "img": "../img/era.jpg",
+        "name": "U ERA",
+        "price": "$18000",
+        "detail": "lorem ipsum",
+        "category": "Skate"
+    },
+    {
+        "id": 3,
+        "img": "../img/oldskool.jpg",
+        "name": "OLD SKOOL",
+        "price": "$20000",
+        "detail": "lorem ipsum",
+        "category": "Urban"
+    },
+    {
+        "id": 4,
+        "img": "../img/rapidweld.jpg",
+        "name": "RAPID WELD",
+        "price": "$23000",
+        "detail": "lorem ipsum",
+        "category": "Sport"
+    },
+    {
+        "id": 5,
+        "img": "../img/sk8-low.jpg",
+        "name": "SK8-LOW",
+        "price": "$25000",
+        "detail": "lorem ipsum",
+        "category": "Urban"
+    },
+    {
+        "id": 6,
+        "img": "../img/sk8-hi.jpg",
+        "name": "SK8-HI",
+        "price": "$27000",
+        "detail": "lorem ipsum",
+        "category": "Urban"
+    }
+]
